@@ -24,7 +24,7 @@ Estimativa do efeito do programa a partir da comparação entre municípios dos 
 > 0 = não teve ocorrências de feminicídios em 2022
 > 1 = teve ao menos 1 ocorrência de feminicídio em 2022.
 
-> Variáveis indepentendes: As mesmas utilizadas no propensity score matching + uma variável dummy que indica a presença de DEAMs no município:
+> Variáveis independentes: As mesmas utilizadas no propensity score matching + uma variável dummy que indica a presença de DEAMs no município:
 > 0 = não há DEAMs no município
 > 1 = há ao menos uma DEAM no município. 
 
